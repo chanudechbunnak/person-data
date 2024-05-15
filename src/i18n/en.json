@@ -1,0 +1,21 @@
+{
+  "PersonalInformationManagement": "Personal Information Management",
+  "firstname": "First Name",
+  "lastname": "Last Name",
+  "Prefix": "Prefix",
+  "Delete": "Delete",
+  "Nationality": "Nationality",
+  "ID Number": "ID Numberrrr",
+  "dob": "Date of Birth",
+  "mobile": "Mobile Number",
+  "passport": "Passport Number",
+  "expectedsalary": "Expected Salary",
+  "gender": "Gender",
+  "male": "Male",   
+  "female": "Female",
+  "unspecified": "Unspecified",
+  "DeleteAll": "Delete All",
+  "SelectAll": "Select All",
+  "Language": "Language"
+  }
+  

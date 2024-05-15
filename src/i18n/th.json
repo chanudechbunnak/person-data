@@ -1,0 +1,21 @@
+{
+    "PersonalInformationManagement": "การจัดการข้อมูลส่วนบุคคล",
+    "First Name": "ชื่อ",
+    "Last Name": "อายุ",
+    "prefix": "คำนำหน้า",
+    "delete": "ลบ",
+    "nationality": "สัญชาติ",
+    "IdCard": "เลขบัตรประชาชน",
+    "dob": "วันเดือนปีเกิด",
+    "mobile": "อายุ",
+    "passport": "หนังสือเดินทาง",
+    "expectedsalary": "เงินเดือนที่คาดหวัง",
+    "gender": "เพศ",
+    "male": "ชาย",   
+    "female": "หญิง",
+    "unspecified": "ไม่ระบุ",
+    "DeleteAll": "ลบทั้งหมด",
+    "SelectAll": "เลือกทั้งหมด",
+    "Language": "เลือกภาษา"
+  }
+  
